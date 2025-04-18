@@ -20,6 +20,8 @@ class CarlaDataset(Dataset):
     use_imagenet_norm: bool,
     sequence_size: Optional[int] = None
   ):
+    super(CarlaDataset, self).__init__()
+
     self.base_dir = base_dir
     self.image_size = image_size
     self.use_imagenet_norm = use_imagenet_norm
