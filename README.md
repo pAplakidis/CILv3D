@@ -1,6 +1,6 @@
 # RCILv3D
 
-The official implementation of the RCILv3D model (Sim-to-Real Autonomous Driving with Noise-Regularized Learning).
+The official implementation of the RCILv3D model (Sim-to-Real Autonomous Driving with Noise-Regularized Learning). To run the code, it is recommended to install `python 3.11` or `python 3.12`.
 
 ## Setup
 
